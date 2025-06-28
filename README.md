@@ -1,4 +1,4 @@
-# 🧪 Antibacterial Activity of Coffee Ground Extracts  
+# ☕ Antibacterial Activity of Coffee Ground Extracts  
 ### at Different Solvent Concentrations Against Wound-Infecting Bacteria
 
 ---
@@ -24,3 +24,6 @@ Spent coffee grounds, a by-product of coffee brewing, are known to contain chlor
 ## 🔑 Keywords
 
 Spent coffee ground, Chlorogenic acid, Pseudomonas aeruginosa
+
+![CoffeeDripGIF](https://github.com/user-attachments/assets/8d371855-9784-48df-bc61-57d4c01bd7bf)
+
